@@ -1,0 +1,15 @@
+[submodule "gpd_ros"]
+	path = gpd_ros
+	url = https://github.com/DanManN/gpd_ros.git
+[submodule "motoman"]
+	path = motoman
+	url = https://github.com/DanManN/motoman.git
+[submodule "segment3d"]
+	path = segment3d
+	url = https://github.com/DanManN/segment3d.git
+[submodule "pracsys_vbnpm"]
+	path = pracsys_vbnpm
+	url = https://github.com/MiaoDragon/pracsys_vbnpm.git
+[submodule "robotiq_arg85_description"]
+	path = robotiq_arg85_description
+	url = https://github.com/a-price/robotiq_arg85_description.git
