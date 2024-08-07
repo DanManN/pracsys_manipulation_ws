@@ -7,6 +7,7 @@ do
 	if [ $((I % 2)) -eq 0 ]
 	then
 		git checkout $line
+		git pull
 		cd ..
 	else
 		cd $line
@@ -18,8 +19,10 @@ git submodule init
 git submodule update
 cd robotiq
 git checkout noetic-devel
+git pull
 cd ../../pracsys_vbnpm
 git submodule init
 git submodule update
 cd scripts/fusion
 git checkout master
+git pull
