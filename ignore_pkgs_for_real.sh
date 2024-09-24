@@ -8,3 +8,5 @@ do
 	echo "Ignoring: $pkg"
 	touch $pkg/CATKIN_IGNORE
 done
+cd motoman
+./ignore_pkgs.sh
