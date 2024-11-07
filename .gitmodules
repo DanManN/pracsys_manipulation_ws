@@ -9,7 +9,7 @@
 [submodule "bio_ik_service"]
 	path = bio_ik_service
 	url = https://github.com/DanManN/bio_ik_service.git
-	branch = master
+	branch = bullet
 [submodule "easy_handeye"]
 	path = easy_handeye
 	url = https://github.com/IFL-CAMP/easy_handeye
@@ -45,3 +45,4 @@
 [submodule "pinocchio"]
 	path = pinocchio
 	url = https://github.com/stack-of-tasks/pinocchio.git
+	branch = master
