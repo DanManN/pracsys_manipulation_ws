@@ -44,5 +44,5 @@
 	branch = noetic-devel
 [submodule "pinocchio"]
 	path = pinocchio
-	url = https://github.com/stack-of-tasks/pinocchio.git
-	branch = master
+	url = https://github.com/stack-of-tasks/pinocchio-ros-release.git
+	branch = release/noetic/pinocchio
