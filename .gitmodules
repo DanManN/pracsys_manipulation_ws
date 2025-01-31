@@ -46,3 +46,7 @@
 	path = pinocchio
 	url = https://github.com/stack-of-tasks/pinocchio-ros-release.git
 	branch = release/noetic/pinocchio
+[submodule "contact_graspnet_ros"]
+	path = contact_graspnet_ros
+	url = https://github.com/DanManN/contact_graspnet_ros.git
+	branch = master
