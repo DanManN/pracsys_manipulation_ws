@@ -26,3 +26,6 @@ git submodule update
 cd scripts/fusion
 git checkout master
 git pull
+cd ../foundation_stereo
+git checkout master
+git pull

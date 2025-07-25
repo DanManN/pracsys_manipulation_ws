@@ -42,10 +42,6 @@
 	path = tuw_marker_detection
 	url = https://github.com/tuw-robotics/tuw_marker_detection.git
 	branch = noetic-devel
-[submodule "pinocchio"]
-	path = pinocchio
-	url = https://github.com/stack-of-tasks/pinocchio-ros-release.git
-	branch = release/noetic/pinocchio
 [submodule "contact_graspnet_ros"]
 	path = contact_graspnet_ros
 	url = https://github.com/DanManN/contact_graspnet_ros.git

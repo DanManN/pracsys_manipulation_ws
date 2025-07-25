@@ -10,3 +10,5 @@ do
 done
 cd motoman
 ./ignore_pkgs.sh
+echo "Ignoring: motoman_driver"
+touch motoman_driver/CATKIN_IGNORE
